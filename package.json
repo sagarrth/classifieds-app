@@ -1,0 +1,28 @@
+{
+  "name": "classifieds-app",
+  "version": "1.0.0",
+  "description": "A Classifieds app using Angular JS",
+  "main": "index.html",
+  "dependencies": {
+    "angular-animate": "^1.5.6",
+    "angular": "^1.5.6",
+    "angular-aria": "^1.5.6",
+    "angular-material": "^1.0.9",
+    "grunt-contrib-jshint": "^1.0.0",
+    "angular-ui-router": "^0.3.1",
+    "grunt": "^1.0.1",
+    "mdi": "^1.6.50"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "JS",
+    "Angular",
+    "Material"
+  ],
+  "author": "Sagar Routh <sagarrouth0512@gmail.com>",
+  "license": "ISC"
+}
