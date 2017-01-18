@@ -1,0 +1,17 @@
+button .material-icons{
+	margin-top: 7px;
+}
+
+.classified.ng-enter, .classified.ng-move{
+	transition: 0.5s all;
+	opacity: 0;
+}
+
+
+md-backdrop{
+position: fixed;
+}
+
+md-sidenav{
+	position: fixed;
+}
