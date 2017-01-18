@@ -2,7 +2,7 @@
 <h3>A Classifieds application built using Angular JS, Angular UI-Router, Angular Material Design and Firebase.</h3>
 
 1. Deploy the application on a server
-2. Open http://localhost:8080 to view the application
+2. Open 'http://localhost:8080' to view the application
 ------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 ![Home Page](https://github.com/SagarRouth/classifieds-app/blob/master/images/home.png)
